@@ -1,21 +1,32 @@
-# 💰 Controle de Gastos
+## 👤 Autor
+   Mateus Conceição da Silva
+
+--- 
+
+💰 Controle de Gastos
 
 Aplicação web simples para registrar e visualizar gastos por categoria. Desenvolvida como exercício de refatoração com foco em boas práticas de JavaScript.
 
-## 🚀 Funcionalidades
+---
+
+🚀 Funcionalidades
 
 - Adição de valores por categoria (Alimentação, Transporte, Lazer, Outros)
 - Cálculo automático do total e valores por categoria
 - Validação de valores negativos
 - Interface dinâmica sem recarregamento de página
 
-## 🛠️ Tecnologias
+---
+
+🛠️ Tecnologias
 
 - HTML5
 - CSS3
-- JavaScript (ES Modules, POO e programação funcional)
+- JavaScript
 
-## 📁 Estrutura
+---
+
+📁 Estrutura
 
 ```
 controle-de-gastos/
@@ -27,8 +38,9 @@ controle-de-gastos/
 │   └── utils.js
 └── README.md
 ```
+----
 
-## ✅ Como usar
+✅ Como usar
 
 1. Clone o repositório:
    ```
@@ -36,7 +48,3 @@ controle-de-gastos/
    ```
 2. Abra o arquivo `index.html` no navegador.
 3. Preencha o valor, escolha a categoria e clique em "Adicionar".
-
-## 👤 Autor
-
-Projeto feito para fins acadêmicos com foco em refatoração, boas práticas e organização de código.
