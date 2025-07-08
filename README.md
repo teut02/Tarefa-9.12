@@ -29,7 +29,7 @@ Aplicação web simples para registrar e visualizar gastos por categoria. Desenv
 📁 Estrutura
 
 ```
-controle-de-gastos/
+controle-de-gastos/ (tarefa-9.12)
 ├── index.html
 ├── styles.css
 ├── js/
